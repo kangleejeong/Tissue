@@ -12,9 +12,10 @@
  <h3>BackEnd</h3>
  <ul>
    <li><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-      <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=#6DB33F&logoColor=white">
-      <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"></li>
-   <li><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> </li>
+      <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+      <img src="https://img.shields.io/badge/gradle-181717?style=for-the-badge&logo=gradle&logoColor=white">
+      </li>
+   <li><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"></li>
   
   </ul>
   <h3>Frontend</h3>
