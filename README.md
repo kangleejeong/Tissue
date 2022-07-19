@@ -46,8 +46,10 @@
   </li>
   <li>
         <img src="https://img.shields.io/badge/notion-181717?style=for-the-badge&logo=notion&logoColor=white">
+        <img src="https://img.shields.io/badge/gather-0093D5?style=for-the-badge&logoColor=white">   
+  </li>
+  <li>
         <img src="https://img.shields.io/badge/erdcloud-181717?style=for-the-badge&logoColor=white">
-        <img src="https://img.shields.io/badge/gather-0093D5?style=for-the-badge&logoColor=white">    
     </li>
 </ul>
 
