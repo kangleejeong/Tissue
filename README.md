@@ -29,7 +29,7 @@
 <h3>DB</h3>
 <ul>
     <li><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></li>
+        <img src="https://img.shields.io/badge/mysqlworkbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></li>
 </ul>
 <h3>협업</h3>
 <ul>
