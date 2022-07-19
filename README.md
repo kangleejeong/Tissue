@@ -55,4 +55,5 @@
     </li>
 </ul>
 <h2>3. DB 설계</h2>
+<img src="KakaoTalk_20220710_135714257.png", width="1000">
     
