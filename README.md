@@ -7,7 +7,9 @@
   <li>정확하고 에러없는 서비스를 만들자</li>
  </ul>
  <h3>개발 기간</h3>
- <li>2022.05.31 ~ 2022.07.12</li>
+ <ul>
+   <li>2022.05.31 ~ 2022.07.12</li>
+ </ul>
  <h2>2. 개발 환경</h2>
  <h3>BackEnd</h3>
  <ul>
@@ -52,4 +54,5 @@
         <img src="https://img.shields.io/badge/erdcloud-9333EA?style=for-the-badge&logoColor=white">
     </li>
 </ul>
-
+<h2>3. DB 설계</h2>
+    
