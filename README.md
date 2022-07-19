@@ -20,7 +20,9 @@
   </ul>
   <h3>Frontend</h3>
   <ul>
-    <li><img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"></li>
+    <li><img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+        <img src="https://img.shields.io/badge/vue-cli-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"></li>
+        <img src="https://img.shields.io/badge/vuetify-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
     <li><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></li>
     <li><img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"></li>
