@@ -7,14 +7,15 @@
   <li>정확하고 에러없는 서비스를 만들자</li>
  </ul>
  <h3>개발 기간</h3>
- <p>2022.05.31 ~ 2022.07.12</p>
+ <li>2022.05.31 ~ 2022.07.12</li>
  <h2>2. 개발 환경</h2>
  <h3>BackEnd</h3>
  <ul>
    <li><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-      <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+      <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=#6DB33F&logoColor=white">
+      <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=#6DB33F&logoColor=white">
       <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"></li>
-    <li><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></li>
+   <li><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></li>
   
   </ul>
   <h3>Frontend</h3>
