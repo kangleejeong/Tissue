@@ -1,4 +1,4 @@
-<h1>🎫:circus_tent:Tissue : 공연 예매 사이트</h1>
+<h1>🎫Tissue : 공연 예매 사이트</h1>
 <h2>1. 프로젝트 소개</h2>
 <h3>개발 목표</h3>
 <ul>
@@ -11,7 +11,8 @@
  <h2>2. 개발 환경</h2>
  <h3>BackEnd</h3>
  <ul>
-  <li>Spring Framework, </li>
-  <li>Java</li>
+  <li><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+      <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"></li>
+  <li><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></li>
   
   </ul>
