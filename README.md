@@ -58,7 +58,7 @@
   <img src="KakaoTalk_20220710_135714257.png", width="1000">
 <h2>4. 프로젝트 협업 진행</h2>
   <h4>애자일 보드</h4>
-      <img src="https://github.com/kangleejeong/Tissue/blob/main/%EC%95%A0%EC%9E%90%EC%9D%BC%EB%B3%B4%EB%93%9C.PNG", width="1000">
+      <img src="https://github.com/kangleejeong/Tissue/blob/main/%EC%95%A0%EC%9E%90%EC%9D%BC%EB%B3%B4%EB%93%9C.PNG", width="400">
       <img src="https://github.com/kangleejeong/Tissue/blob/main/%EC%95%A0%EC%9E%90%EC%9D%BC%EB%B3%B4%EB%93%9C2.PNG", width="1000">
   <h4>Git & GitHub</h4>
   <h4>스크럼 회의</h4>
