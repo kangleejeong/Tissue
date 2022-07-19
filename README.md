@@ -15,8 +15,8 @@
       <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
       <img src="https://img.shields.io/badge/gradle-181717?style=for-the-badge&logo=gradle&JPlogoColor=white">
       <img src="https://img.shields.io/badge/JPA-181717?style=for-the-badge&logo=gradle&logoColor=white">
-      <img src="https://img.shields.io/badge/lombok-181717?style=for-the-badge&logo=gradle&logoColor=white">
-      <img src="https://img.shields.io/badge/jwt-181717?style=for-the-badge&logo=gradle&logoColor=white">
+      <img src="https://img.shields.io/badge/lombok-181717?style=for-the-badge&logo=&logoColor=white">
+      <img src="https://img.shields.io/badge/jwt-181717?style=for-the-badge&logo=&logoColor=white">
       </li>
    <li><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"></li>
   
@@ -34,12 +34,15 @@
 <h3>DB</h3>
 <ul>
     <li><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/mysqlworkbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></li>
+        <img src="https://img.shields.io/badge/mysqlworkbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    </li>
 </ul>
 <h3>협업</h3>
 <ul>
     <li><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
         <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-        <img src="https://img.shields.io/badge/notion-181717?style=for-the-badge&logo=notion&logoColor=white"></li>
+        <img src="https://img.shields.io/badge/notion-181717?style=for-the-badge&logo=notion&logoColor=white">
+        <img src="https://img.shields.io/badge/erdcloud-181717?style=for-the-badge&logoColor=white">
+    </li>
 </ul>
 <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
