@@ -11,7 +11,7 @@
    <li>2022.05.31 ~ 2022.07.12</li>
  </ul>
  <h2>2. 개발 환경</h2>
- <h4>BackEnd</h4>
+ <h4>Backend</h4>
  <ul>
    <li><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
       <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -58,9 +58,9 @@
   <img src="KakaoTalk_20220710_135714257.png", width="1000">
   
 <h2>4. 페이지 기능</h2>
-  <h4>:one: QnA 시스템</h4>
+  <h3>:one: QnA 시스템</h3>
   
-  <h4>:two: 랭킹 시스템</h4>
+  <h3>:two: 랭킹 시스템</h3>
   
-  <h4>:three: 공지사항 시스템</
+  <h3>:three: 공지사항 시스템</h3>
     
