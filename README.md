@@ -13,10 +13,12 @@
  <ul>
    <li><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
       <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  </li>
+  <li>
       <img src="https://img.shields.io/badge/gradle-181717?style=for-the-badge&logo=gradle&JPlogoColor=white">
-      <img src="https://img.shields.io/badge/JPA-181717?style=for-the-badge&logo=gradle&logoColor=white">
-      <img src="https://img.shields.io/badge/lombok-181717?style=for-the-badge&logo=&logoColor=white">
-      <img src="https://img.shields.io/badge/jwt-181717?style=for-the-badge&logo=&logoColor=white">
+      <img src="https://img.shields.io/badge/JPA-003791?style=for-the-badge&logo=&logoColor=white">
+      <img src="https://img.shields.io/badge/lombok-5A0FC8?style=for-the-badge&logo=&logoColor=white">
+      <img src="https://img.shields.io/badge/jwt-5A0FC8?style=for-the-badge&logo=&logoColor=white">
       </li>
    <li><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"></li>
   
