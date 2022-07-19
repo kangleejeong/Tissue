@@ -60,7 +60,7 @@
   <h4>애자일 보드 (:blue_book:Notion)</h4>
       <img src="https://github.com/kangleejeong/Tissue/blob/main/%EC%95%A0%EC%9E%90%EC%9D%BC%EB%B3%B4%EB%93%9C2.PNG", width="900">
   <h4>Git & GitHub</h4>
-      <img src="https://github.com/kangleejeong/Tissue/blob/main/gitImg.PNG", width="900">
+      <img src="https://github.com/kangleejeong/Tissue/blob/main/gitImg.PNG", width="500">
   <h4>스크럼 회의</h4>
 <h2>5. 페이지 기능</h2>
   <h3>:one: QnA 시스템</h3>
