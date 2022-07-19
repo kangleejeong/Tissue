@@ -58,6 +58,7 @@
   <img src="KakaoTalk_20220710_135714257.png", width="1000">
 <h2>4. 프로젝트 협업 진행</h2>
   <h4>애자일 보드</h4>
+      <img src="애자일보드.png", width="500">
   <h4>Git & GitHub</h4>
   <h4>스크럼 회의</h4>
 <h2>5. 페이지 기능</h2>
