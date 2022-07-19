@@ -1,4 +1,4 @@
-<h1>🎫 Tissue : 공연 예매 사이트</h1>
+<h1>🎫:circus_tent:Tissue : 공연 예매 사이트</h1>
 <h2>1. 프로젝트 소개</h2>
 <h3>개발 목표</h3>
 <ul>
@@ -9,7 +9,9 @@
  <h3>개발 기간</h3>
  <p>2022.05.31 ~ 2022.07.12</p>
  <h2>2. 개발 환경</h2>
+ <h3>BackEnd</h3>
  <ul>
-  <li>Backend : Spring Framework, </li>
+  <li>Spring Framework, </li>
+  <li>Java</li>
   
   </ul>
