@@ -78,5 +78,10 @@
   
   <h3>:three: 공지사항 시스템</h3>
     <h4>공지사항 등록</h4>
-      <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker.gif", width="700">
+      <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker.gif", width="1000">
+    <h4>공지사항 수정</h4>
+    
+    <h4>공지사항 삭제</h4>
+    
+    <h4>공지사항 리스트</h4>
     
