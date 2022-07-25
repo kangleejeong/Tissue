@@ -64,9 +64,16 @@
       <img src="https://github.com/kangleejeong/Tissue/blob/main/gitImg.PNG", width="500">
   <h3>스크럼 회의 (<span style="background-color:blue">매일 21:30 ~ 21:50</span> Gather🚀에서 진행)</h3>
       <img src="https://github.com/kangleejeong/Tissue/blob/main/%EC%8A%A4%ED%81%AC%EB%9F%BC%EB%85%B8%ED%8A%B8.PNG", width="700">
-<h2>5. 페이지 기능</h2>
+<h2>5. 페이지 UI</h2>
   <h3>:one: QnA 시스템</h3>
   
+  <h3>:two: 랭킹 시스템</h3>
+  
+  <h3>:three: 공지사항 시스템</h3>
+
+<h2>6. 페이지 기능</h2>
+  <h3>:one: QnA 시스템</h3>
+   
   <h3>:two: 랭킹 시스템</h3>
   
   <h3>:three: 공지사항 시스템</h3>
