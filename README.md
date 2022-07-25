@@ -77,3 +77,6 @@
   <h3>:two: 랭킹 시스템</h3>
   
   <h3>:three: 공지사항 시스템</h3>
+    <h4>공지사항 등록</h4>
+      <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker.gif", width="700">
+    
