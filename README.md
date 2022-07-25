@@ -78,15 +78,13 @@
   
   <h3>:three: 공지사항 시스템</h3>
     <h4>Create</h4>
-      <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker.gif", width="1000">
-      
+      <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker.gif", width="1000">      
     <h4>Read</h4>
       <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(1).gif", width="1000">
     <h4>Update</h4>
-      <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(2).gif", width="1000">
-    
+      <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(2).gif", width="1000">   
     <h4>Delete</h4>
-      <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(3).gif", width="1000">
-    <h4>List</h4>
       <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(4).gif", width="1000">
+    <h4>List</h4>
+      <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(3).gif", width="1000">
     
