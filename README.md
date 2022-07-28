@@ -102,11 +102,9 @@
         <li>내가 쓴 글에만 수정, 삭제 버튼이 나타납니다.</li>
           <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(11).gif", width="1000">
           <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(12).gif", width="1000">
-          <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(13).gif", width="1000">          
-          
+          <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(13).gif", width="1000">                  
      <h4>🎫QnA 수정 및 삭제 페이지</h4>
-        <li>QnA 게시글을 수정 및 삭제 할 수 있는 페이지입니다.</li>
-        
+        <li>QnA 게시글을 수정 및 삭제 할 수 있는 페이지입니다.</li>       
           <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(14).gif", width="1000">
           <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(15).gif", width="1000">  
  
