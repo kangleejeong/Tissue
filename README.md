@@ -87,6 +87,12 @@
          <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(6).gif", width="1000">   
          <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(7).gif", width="1000">
     <h4>:two:)QnA</h4>
+      <h4>🎫QnA 등록 페이지</h4>
+        <li>QnA를 등록할 수 있는 페이지입니다.</li>
+        <li>공개글과 비공개를 구분하여 등록할 수 있습니다.</li>
+        <li>모든양식을 입력해야만 등록이 가능합니다.</li> 
+          <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(9).gif", width="1000">
+          <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(10).gif", width="1000">
     
   <h3>:two: 랭킹 시스템</h3>
   
