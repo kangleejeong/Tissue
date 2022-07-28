@@ -93,7 +93,23 @@
         <li>모든양식을 입력해야만 등록이 가능합니다.</li> 
           <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(9).gif", width="1000">
           <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(10).gif", width="1000">
-    
+      <h4>🎫QnA 상세 페이지</h4>
+        <li>QnA 게시글을 조회 할 수 있는 페이지입니다.</li>
+        <li>공개글은 아무런 제약없이 조회 할 수 있습니다.</li>
+        <li>비밀글은 클릭 시 비밀번호를 입력할 수 있는 다이얼로그가 뜹니다.</li>
+        <li>해당 게시글의 비밀번호와 입력한 비밀번호가 틀리면 접근할 수 없습니다.</li>
+        <li>해당 게시글의 비밀번호와 입력한 비밀번호가 일치하다면 접근할 수 있습니다.</li>
+        <li>내가 쓴 글에만 수정, 삭제 버튼이 나타납니다.</li>
+          <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(11).gif", width="1000">
+          <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(12).gif", width="1000">
+          <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(13).gif", width="1000">          
+          
+     <h4>🎫QnA 수정 및 삭제 페이지</h4>
+        <li>QnA 게시글을 수정 및 삭제 할 수 있는 페이지입니다.</li>
+        
+          <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(14).gif", width="1000">
+          <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(15).gif", width="1000">  
+ 
   <h3>:two: 랭킹 시스템</h3>
   
   <h3>:three: 공지사항 시스템</h3>
