@@ -64,48 +64,41 @@
       <img src="https://github.com/kangleejeong/Tissue/blob/main/gitImg.PNG", width="500">
   <h3>:three:스크럼 회의 (<span style="background-color:blue">매일 21:30 ~ 21:50</span> Gather🚀에서 진행)</h3>
       <img src="https://github.com/kangleejeong/Tissue/blob/main/%EC%8A%A4%ED%81%AC%EB%9F%BC%EB%85%B8%ED%8A%B8.PNG", width="700">
-<h2>5. 페이지 UI</h2>
+<h2>5. 페이지 기능</h2>
   <h3>:one: QnA 시스템</h3>
-  
-  <h3>:two: 랭킹 시스템</h3>
-  
-  <h3>:three: 공지사항 시스템</h3>
-
-<h2>6. 페이지 기능</h2>
-  <h3>:one: QnA 시스템</h3>
-    <h4>:one:-:one:자주묻는 질문</h4>
+    <h4>:one:)자주묻는 질문</h4>
       <h4>🎫자주묻는 질문 등록 페이지</h4>
-      <ul>
         <li>자주묻는 질문을 작성 할 수 있는 페이지입니다.</li>
-        <li>관리자 페이지에서 //자주묻는질문관리 을 클릭하면 이동합니다.</li>
+        <li>관리자 페이지에서 자주묻는질문관리 을 클릭 시 이동합니다.</li>
         <li>오직 관리자만이 접근 가능합니다.</li>
         <li>모든양식을 입력해야만 등록이 가능합니다.</li>
-      <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(5).gif", width="1000">      
-    <h4>Read</h4>
-      <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(8).gif", width="1000">
-    <h4>Update</h4>
-      <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(6).gif", width="1000">   
-    <h4>Delete</h4>
-      <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(7).gif", width="1000">
-   
+          <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(5).gif", width="1000">      
+    <h4>🎫자주묻는 질문 상세 및 리스트 페이지</h4>
+          <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(8).gif", width="1000">
+    <h4>🎫자주묻는 질문 수정 및 삭제 페이지</h4>
+        <li>자주묻는 질문을 수정 할 수 있는 페이지입니다.</li>
+        <li>자주묻는 질문 리스트 오른편 수정 아이콘을 클릭 시 이동합니다.</li>
+        <li>자주묻는 질문 리스트 오른편 삭제 아이콘을 클릭 시 삭제됩니다.</li>
+        <li>오직 관리자만이 접근 가능합니다.</li>
+         <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(6).gif", width="1000">   
+         <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(7).gif", width="1000">
+    
+    <h4>:two:)QnA</h4>
+    
   <h3>:two: 랭킹 시스템</h3>
   
   <h3>:three: 공지사항 시스템</h3>
     <h4>🎫공지사항 등록 페이지</h4>
-      <ul>
         <li>공지사항을 등록 할 수 있는 페이지입니다.</li>
-        <li>관리자 페이지에서 //공지사항관리 을 클릭하면 이동합니다.</li>
+        <li>관리자 페이지에서 공지사항관리 을 클릭하면 이동합니다.</li>
         <li>오직 관리자만이 접근 가능합니다.</li>
-      </ul>
          <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker.gif", width="1000">      
     <h4>🎫공지사항 상세 페이지</h4>
-      <ul>
         <li>공지사항의 정보를 읽을 수 있는 페이지입니다.</li>
         <li>공지사항 페이지에서 공지사항 제목을 클릭하면 이동합니다.</li>
         <li>조회하게 되면 조회수가 1씩 증가합니다.</li>
         <li>관리자라면 수정,삭제 아이콘이 보이지만 일반 회원은 보이지 않습니다.</li>
-      </ul>
-      <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(1).gif", width="1000">
+          <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(1).gif", width="1000">
     <h4>🎫공지사항 수정 및 삭제 페이지</h4>
       <ul>
         <li>공지사항을 수정할 수 있는 페이지입니다.</li>
@@ -113,15 +106,13 @@
         <li>오직 관리자만 접근 가능합니다.</li>
         <li>삭제 아이콘을 클릭 시 해당 공지사항 게시글이 삭제됩니다.</li>
       </ul>
-      <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(2).gif", width="1000">   
-      <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(4).gif", width="1000">
+         <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(2).gif", width="1000">   
+         <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(4).gif", width="1000">
     <h4>🎫공지사항 리스트 페이지</h4>
-      <ul>
         <li>공지사항 리스트를 확인 할 수 있는 페이지입니다.</li>
         <li>페이지 하단에 공지사항 아이콘을 클릭 시 이동합니다.</li>
         <li>필독 게시글이 우선순위로 정렬되고 다음으로는 등록일자에 따라 정렬됩니다.</li>
         <li>리스트 하단에 페이지네이션이 있습니다.</li>
         <li>검색을 통해 원하는 게시글을 찾을 수 있습니다.</li>
-      </ul>
-      <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(3).gif", width="1000">
+          <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(3).gif", width="1000">
     
