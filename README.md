@@ -74,6 +74,10 @@
         <li>모든양식을 입력해야만 등록이 가능합니다.</li>
           <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(5).gif", width="1000">      
     <h4>🎫자주묻는 질문 상세 및 리스트 페이지</h4>
+        <li>자주묻는 질문 리스트와 상세 정보를 확인 할 수 있는 페이지 입니다.</li>
+        <li>페이지 하단 고객센터 아이콘 클릭 시 이동합니다.</li>
+        <li>관리자가 접근하면 오른편 수정,삭제 아이콘이 보이지만 일반 회원일 경우 보이지 않습니다.</li>
+        <li>제목을 클릭 시 상세 내용이 하단에 뜹니다.</li>
           <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(8).gif", width="1000">
     <h4>🎫자주묻는 질문 수정 및 삭제 페이지</h4>
         <li>자주묻는 질문을 수정 할 수 있는 페이지입니다.</li>
@@ -82,7 +86,6 @@
         <li>오직 관리자만이 접근 가능합니다.</li>
          <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(6).gif", width="1000">   
          <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(7).gif", width="1000">
-    
     <h4>:two:)QnA</h4>
     
   <h3>:two: 랭킹 시스템</h3>
