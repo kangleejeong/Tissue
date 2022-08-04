@@ -116,6 +116,11 @@
           <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(18).gif", width="1000">
         
   <h3>:two: 랭킹 시스템</h3>
+      <h4>🎫랭킹 페이지</h4>
+        <li>특정 날짜에서 가장 많이 예매된 공연 top 30개를 조회할 수 있는 페이지입니다.</li>
+        <li>Datepicker로 날짜를 선택합니다.</li>
+         <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(19).gif", width="1000">
+         <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(20).gif", width="1000">
   
   <h3>:three: 공지사항 시스템</h3>
     <h4>🎫공지사항 등록 페이지</h4>
