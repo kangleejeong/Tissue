@@ -107,7 +107,14 @@
         <li>QnA 게시글을 수정 및 삭제 할 수 있는 페이지입니다.</li>       
           <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(14).gif", width="1000">
           <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(15).gif", width="1000">  
- 
+     <h4>🎫QnA 답변 페이지</h4>
+         <li>QnA 답변을 등록, 수정, 삭제 할 수 있는 페이지입니다.</li>
+         <li>오직 관리자만 접근이 가능합니다.</li>
+         <li>답변을 등록하면 QnA 게시글 구분이 "답변대기중" -> "답변완료" 으로 변경됩니다.</li>
+          <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(16).gif", width="1000">
+          <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(17).gif", width="1000">
+          <img src="https://github.com/kangleejeong/Tissue/blob/main/tissue_front/src/assets/button/ezgif.com-gif-maker%20(18).gif", width="1000">
+        
   <h3>:two: 랭킹 시스템</h3>
   
   <h3>:three: 공지사항 시스템</h3>
